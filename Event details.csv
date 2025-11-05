@@ -1,0 +1,200 @@
+Event_Type,Event Year,Event_Venue,Event_Level
+Cultural,2023,Online,National
+Technical,2023,Classroom A,College
+Technical,2024,Auditorium,Intercollege
+Sports,2024,Seminar Hall,Intercollege
+Cultural,2024,Seminar Hall,College
+Technical,2024,Classroom A,Intercollege
+Sports,2025,Ground,Intercollege
+Cultural,2024,Auditorium,Intercollege
+Technical,2025,Seminar Hall,College
+Sports,2023,Seminar Hall,Intercollege
+Sports,2024,Online,Intercollege
+Technical,2024,Auditorium,National
+Cultural,2025,Classroom A,Intercollege
+Technical,2023,Classroom A,College
+Technical,2024,Ground,College
+Technical,2024,Classroom A,College
+Technical,2025,Classroom A,Intercollege
+Technical,2024,Online,National
+Cultural,2025,Online,Intercollege
+Technical,2024,Ground,Intercollege
+Cultural,2024,Auditorium,Intercollege
+Cultural,2025,Seminar Hall,Intercollege
+Technical,2023,Online,Intercollege
+Technical,2024,Auditorium,Intercollege
+Technical,2025,Online,College
+Technical,2024,Ground,National
+Cultural,2024,Online,Intercollege
+Sports,2024,Online,College
+Technical,2025,Classroom A,National
+Cultural,2024,Ground,Intercollege
+Sports,2025,Online,Intercollege
+Cultural,2024,Classroom A,National
+Cultural,2024,Auditorium,National
+Technical,2025,Ground,College
+Technical,2024,Auditorium,Intercollege
+Technical,2023,Classroom A,College
+Cultural,2024,Online,National
+Cultural,2024,Seminar Hall,National
+Sports,2024,Classroom A,Intercollege
+Cultural,2024,Auditorium,National
+Cultural,2024,Auditorium,Intercollege
+Sports,2023,Ground,National
+Technical,2023,Seminar Hall,National
+Cultural,2024,Classroom A,National
+Cultural,2023,Classroom A,College
+Sports,2025,Classroom A,National
+Cultural,2023,Auditorium,College
+Cultural,2024,Ground,Intercollege
+Technical,2025,Seminar Hall,Intercollege
+Technical,2024,Classroom A,Intercollege
+Technical,2024,Auditorium,National
+Sports,2024,Seminar Hall,National
+Sports,2024,Seminar Hall,Intercollege
+Cultural,2023,Seminar Hall,College
+Cultural,2023,Online,National
+Cultural,2024,Seminar Hall,College
+Cultural,2025,Classroom A,Intercollege
+Sports,2025,Auditorium,College
+Cultural,2024,Seminar Hall,Intercollege
+Cultural,2024,Online,Intercollege
+Technical,2024,Ground,Intercollege
+Sports,2025,Seminar Hall,College
+Technical,2025,Ground,College
+Sports,2024,Ground,National
+Cultural,2025,Classroom A,Intercollege
+Technical,2023,Online,Intercollege
+Sports,2024,Auditorium,National
+Cultural,2024,Ground,Intercollege
+Technical,2023,Seminar Hall,Intercollege
+Technical,2025,Online,College
+Technical,2023,Online,National
+Sports,2024,Online,College
+Technical,2024,Classroom A,National
+Technical,2025,Auditorium,Intercollege
+Technical,2023,Ground,College
+Technical,2023,Online,National
+Technical,2024,Ground,National
+Cultural,2024,Ground,Intercollege
+Cultural,2024,Seminar Hall,National
+Sports,2023,Classroom A,College
+Sports,2024,Auditorium,College
+Technical,2024,Ground,College
+Sports,2023,Online,National
+Cultural,2023,Online,Intercollege
+Sports,2025,Seminar Hall,National
+Technical,2024,Auditorium,College
+Sports,2025,Online,College
+Cultural,2024,Seminar Hall,College
+Technical,2025,Ground,College
+Cultural,2024,Classroom A,College
+Technical,2024,Ground,Intercollege
+Cultural,2025,Seminar Hall,National
+Cultural,2023,Online,College
+Cultural,2024,Online,Intercollege
+Technical,2025,Ground,National
+Cultural,2024,Seminar Hall,National
+Cultural,2025,Seminar Hall,College
+Technical,2025,Seminar Hall,College
+Cultural,2025,Ground,Intercollege
+Technical,2025,Classroom A,Intercollege
+Technical,2025,Seminar Hall,Intercollege
+Cultural,2024,Ground,Intercollege
+Cultural,2024,Seminar Hall,Intercollege
+Cultural,2024,Classroom A,College
+Technical,2023,Auditorium,Intercollege
+Technical,2024,Online,Intercollege
+Technical,2024,Classroom A,National
+Technical,2025,Seminar Hall,Intercollege
+Cultural,2025,Ground,College
+Sports,2025,Seminar Hall,Intercollege
+Cultural,2024,Ground,National
+Cultural,2023,Auditorium,College
+Technical,2023,Ground,Intercollege
+Cultural,2023,Auditorium,College
+Technical,2024,Online,National
+Cultural,2024,Classroom A,Intercollege
+Cultural,2023,Classroom A,National
+Technical,2025,Classroom A,National
+Technical,2023,Classroom A,Intercollege
+Technical,2025,Auditorium,National
+Cultural,2023,Classroom A,College
+Cultural,2023,Ground,College
+Technical,2024,Classroom A,College
+Cultural,2024,Seminar Hall,College
+Technical,2024,Classroom A,Intercollege
+Cultural,2024,Auditorium,National
+Cultural,2023,Ground,College
+Technical,2024,Online,Intercollege
+Sports,2025,Auditorium,Intercollege
+Technical,2023,Ground,Intercollege
+Technical,2024,Ground,College
+Cultural,2025,Seminar Hall,Intercollege
+Sports,2024,Seminar Hall,Intercollege
+Technical,2025,Auditorium,National
+Technical,2025,Ground,National
+Technical,2024,Ground,Intercollege
+Technical,2024,Seminar Hall,Intercollege
+Technical,2023,Auditorium,National
+Cultural,2025,Classroom A,College
+Technical,2023,Seminar Hall,National
+Technical,2024,Classroom A,College
+Technical,2024,Seminar Hall,College
+Cultural,2025,Classroom A,College
+Cultural,2024,Auditorium,National
+Cultural,2025,Classroom A,Intercollege
+Sports,2024,Auditorium,College
+Sports,2024,Ground,College
+Cultural,2024,Classroom A,Intercollege
+Technical,2024,Online,College
+Technical,2024,Auditorium,College
+Technical,2024,Ground,National
+Cultural,2024,Auditorium,National
+Technical,2024,Online,Intercollege
+Sports,2023,Seminar Hall,National
+Cultural,2024,Online,College
+Sports,2023,Ground,Intercollege
+Technical,2024,Ground,Intercollege
+Cultural,2025,Auditorium,Intercollege
+Cultural,2023,Auditorium,College
+Technical,2024,Seminar Hall,Intercollege
+Cultural,2024,Ground,National
+Technical,2024,Classroom A,National
+Cultural,2023,Classroom A,National
+Technical,2024,Auditorium,Intercollege
+Technical,2024,Seminar Hall,Intercollege
+Cultural,2024,Classroom A,National
+Sports,2023,Auditorium,Intercollege
+Sports,2024,Ground,National
+Cultural,2024,Classroom A,Intercollege
+Sports,2024,Auditorium,Intercollege
+Technical,2024,Seminar Hall,National
+Technical,2025,Classroom A,Intercollege
+Technical,2025,Classroom A,Intercollege
+Technical,2024,Seminar Hall,Intercollege
+Cultural,2024,Seminar Hall,College
+Technical,2024,Classroom A,National
+Technical,2023,Ground,National
+Cultural,2024,Seminar Hall,National
+Technical,2024,Online,National
+Sports,2024,Auditorium,Intercollege
+Technical,2025,Auditorium,Intercollege
+Cultural,2024,Seminar Hall,Intercollege
+Cultural,2025,Online,National
+Cultural,2023,Online,Intercollege
+Technical,2024,Online,National
+Technical,2024,Seminar Hall,National
+Technical,2025,Ground,National
+Cultural,2024,Ground,College
+Sports,2024,Classroom A,College
+Technical,2025,Classroom A,National
+Technical,2024,Auditorium,College
+Cultural,2024,Seminar Hall,Intercollege
+Technical,2023,Auditorium,National
+Sports,2024,Ground,Intercollege
+Technical,2024,Seminar Hall,College
+Sports,2023,Auditorium,College
+Cultural,2024,Online,Intercollege
+Technical,2024,Online,National
+Cultural,2025,Ground,College
